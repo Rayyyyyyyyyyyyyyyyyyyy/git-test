@@ -1,7 +1,7 @@
 
 git init
 git config --global user
-git config --global user
+
 連結Git
 
 git status
